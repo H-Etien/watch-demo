@@ -1,1 +1,1 @@
-const image = new image();
+console.log("o5dok");

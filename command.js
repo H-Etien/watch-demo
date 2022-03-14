@@ -12,4 +12,12 @@
 
 // pas sûr  npm i imagemin-gifsicle imagemin-mozjpeg imagemin-pngquant imagemin-svgo --save-dev
 
+//npm i glslify-loader --save-dev
+
+//npm i eslint eslint-config-standard eslint-loader eslint-plugin-import eslint-plugin-promise eslint-plugin-standard --save-dev
+
+//npm i terser-webpack-plugin --save-dev
+
+//npm i imagemin --save-dev
+
 //min 46:51

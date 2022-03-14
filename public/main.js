@@ -1,1 +1,1 @@
-(()=>{const n=new n})();
+console.log("o5dok");
